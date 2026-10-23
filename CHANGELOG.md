@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.8.2](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.1...v1.8.2) (2026-10-23)
+
+
+### Bug Fixes
+
+* update base image to eclipse-temurin:11-jdk-jammy ([0b08a9c](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/commit/0b08a9c1987e6a7e62396354582b7bb15d61593e))
+
 ### [1.8.1](https://github.com/CaritasDeutschland/caritas-onlineBeratung-liveService/compare/v1.8.0...v1.8.1) (2025-11-26)
 
 
